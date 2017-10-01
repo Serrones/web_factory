@@ -1,1 +1,3 @@
-# web_factory
+Web Factory
+
+JS and HTML local training
